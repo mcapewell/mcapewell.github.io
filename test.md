@@ -9,3 +9,7 @@ Here is some example documention about a fictional javascript component and ther
 ``` javascript
 var myName = 'Matthew';
 ```
+
+###Another Level of Heading
+
+And some more text that really doesn't mean anything because I'm just making something simple up to fill the gap!
