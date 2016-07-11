@@ -2,6 +2,8 @@
 
 This is a test to see what a basic Flatdoc documention looks like and how easy it is to write one...
 
+Above is the lead paragraph, which should appear in a slightly bigger font than this paragraph.
+
 ##Some Component
 
 Here is some example documention about a fictional javascript component and there should be some javacript over there on the right-hand side of the screen.
